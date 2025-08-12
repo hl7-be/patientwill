@@ -81,3 +81,4 @@ Description: "Patient Will Directive CodeSystem. Codes as defined by the NIHDI."
 * #islamic
 * #secular
 * #neutral
+* #hearing-test-consent
